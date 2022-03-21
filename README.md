@@ -7,7 +7,11 @@
 
 ## Techniques
 
-  Socket.io, Ethers.js, Typescript, 
+  Socket.io, Ethers.js, Typescript, Multer, Mongo aggregation
+
+
+
+  
 
 ![](https://github.com/cryptowarrier/MOON-POOL---Frontend/raw/master/moon.gif)
 
